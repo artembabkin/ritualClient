@@ -1,0 +1,460 @@
+Uri: https://mc.yandex.ru/watch/54277207/1?redirnss=1
+File Name: C:\Downloaded Web Sites\saratovritual.ru\watch\54277207\1
+Content Type: image/gif
+
+Uri: https://saratovritual.ru/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/%E8%ED%E4%E8%E2%E8%E4%F3%E0%EB%FC%ED%EE/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\%E8%ED%E4%E8%E2%E8%E4%F3%E0%EB%FC%ED%EE\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/agent/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\agent\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/bitrix/cache/css/s1/1.01.undertaking/page_a378bc28a9e5648abcfb1f66fe0a0f61/page_a378bc28a9e5648abcfb1f66fe0a0f61_v1.css?16978170493692
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\cache\css\s1\1.01.undertaking\page_a378bc28a9e5648abcfb1f66fe0a0f61\page_a378bc28a9e5648abcfb1f66fe0a0f61_v1.css
+Content Type: text/css
+
+Uri: https://saratovritual.ru/bitrix/cache/css/s1/1.01.undertaking/page_bab93a4882f2b89a69820374841de2c3/page_bab93a4882f2b89a69820374841de2c3_v1.css?16978136802453
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\cache\css\s1\1.01.undertaking\page_bab93a4882f2b89a69820374841de2c3\page_bab93a4882f2b89a69820374841de2c3_v1.css
+Content Type: text/css
+
+Uri: https://saratovritual.ru/bitrix/cache/css/s1/1.01.undertaking/page_bfcd3e3c39473a58b71084eeb6ddddfb/page_bfcd3e3c39473a58b71084eeb6ddddfb_v1.css?16982733303344
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\cache\css\s1\1.01.undertaking\page_bfcd3e3c39473a58b71084eeb6ddddfb\page_bfcd3e3c39473a58b71084eeb6ddddfb_v1.css
+Content Type: text/css
+
+Uri: https://saratovritual.ru/bitrix/cache/css/s1/1.01.undertaking/page_dc9c53b2d07d8ee4357c04508e25474b/page_dc9c53b2d07d8ee4357c04508e25474b_v1.css?16978456364840
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\cache\css\s1\1.01.undertaking\page_dc9c53b2d07d8ee4357c04508e25474b\page_dc9c53b2d07d8ee4357c04508e25474b_v1.css
+Content Type: text/css
+
+Uri: https://saratovritual.ru/bitrix/cache/css/s1/1.01.undertaking/page_e2a052e2ca310a6ef4f792e96048f12a/page_e2a052e2ca310a6ef4f792e96048f12a_v1.css?16978142342838
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\cache\css\s1\1.01.undertaking\page_e2a052e2ca310a6ef4f792e96048f12a\page_e2a052e2ca310a6ef4f792e96048f12a_v1.css
+Content Type: text/css
+
+Uri: https://saratovritual.ru/bitrix/cache/css/s1/1.01.undertaking/template_0f7f47767439b4e4ae33829079af9fad/template_0f7f47767439b4e4ae33829079af9fad_v1.css?169781368056742
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\cache\css\s1\1.01.undertaking\template_0f7f47767439b4e4ae33829079af9fad\template_0f7f47767439b4e4ae33829079af9fad_v1.css
+Content Type: text/css
+
+Uri: https://saratovritual.ru/bitrix/cache/js/s1/1.01.undertaking/template_906281b547c0cbec7f6ff91135dcc864/template_906281b547c0cbec7f6ff91135dcc864_v1.js?1697813680124855
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\cache\js\s1\1.01.undertaking\template_906281b547c0cbec7f6ff91135dcc864\template_906281b547c0cbec7f6ff91135dcc864_v1.js
+Content Type: application/x-javascript
+
+Uri: https://saratovritual.ru/bitrix/css/main/font-awesome.css?167967700428777
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\css\main\font-awesome.css
+Content Type: text/css
+
+Uri: https://saratovritual.ru/bitrix/css/main/font-awesome.min.css?167967700423748
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\css\main\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://saratovritual.ru/bitrix/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saratovritual.ru/bitrix/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saratovritual.ru/bitrix/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://saratovritual.ru/bitrix/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://saratovritual.ru/bitrix/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://saratovritual.ru/bitrix/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://saratovritual.ru/bitrix/templates/.default/components/bitrix/menu/mobile/img/close-icon.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\.default\components\bitrix\menu\mobile\img\close-icon.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/bitrix/templates/.default/components/bitrix/menu/mobile/img/nav-icon.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\.default\components\bitrix\menu\mobile\img\nav-icon.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTBold/PTBold.ttf
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTBold\PTBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTBold/PTMonoBold.ttf
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTBold\PTMonoBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTN57F_W.eot?
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTN57F_W.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTN57F_W.svg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTN57F_W.svg
+Content Type: image/svg+xml
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTN57F_W.ttf
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTN57F_W.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTN57F_W.woff
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTN57F_W.woff
+Content Type: application/font-woff
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTN77F_W.eot?
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTN77F_W.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTN77F_W.svg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTN77F_W.svg
+Content Type: image/svg+xml
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTN77F_W.ttf
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTN77F_W.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTN77F_W.woff
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTN77F_W.woff
+Content Type: application/font-woff
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTS55F_W.eot
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTS55F_W.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTS55F_W.eot?
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTS55F_W-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTS55F_W.svg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTS55F_W.svg
+Content Type: image/svg+xml
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTS55F_W.ttf
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTS55F_W.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/fonts/PTSans/PTS55F_W.woff
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\fonts\PTSans\PTS55F_W.woff
+Content Type: application/font-woff
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/cremation-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\cremation-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/ctrl-sprite-min.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\ctrl-sprite-min.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/deception.sprite.min.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\deception.sprite.min.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/footer-bg-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\footer-bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/footer-bg-sm-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\footer-bg-sm-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/footer-bg-xs-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\footer-bg-xs-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/funeral-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\funeral-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/header-bg-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\header-bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/header-bg-sm-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\header-bg-sm-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/header-bg-sm590-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\header-bg-sm590-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/header-bg-sm660-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\header-bg-sm660-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/header-bg-xs-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\header-bg-xs-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/logo-min.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\logo-min.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/plus-bg-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\plus-bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/plus-bg-sm-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\plus-bg-sm-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/plus-bg-sm565-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\plus-bg-sm565-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/plus-bg-xs-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\plus-bg-xs-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/plus.sprite.min.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\plus.sprite.min.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/bitrix/templates/1.01.undertaking/img/tomsk-trupovozka-001-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\bitrix\templates\1.01.undertaking\img\tomsk-trupovozka-001-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/care/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\care\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/church/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\church\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/coffins/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\coffins\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/contacts/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\contacts\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/cremation/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\cremation\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/cross/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\cross\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/embalming/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\embalming\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/exhumation/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\exhumation\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\saratovritual.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://saratovritual.ru/funeral/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\funeral\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/goods/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\goods\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/hall/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\hall\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/hearse/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\hearse\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/images/note-min.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\images\note-min.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/images/payment-icons-min.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\images\payment-icons-min.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/js/fancybox/source/blank.gif
+File Name: C:\Downloaded Web Sites\saratovritual.ru\js\fancybox\source\blank.gif
+Content Type: image/gif
+
+Uri: https://saratovritual.ru/js/fancybox/source/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\saratovritual.ru\js\fancybox\source\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://saratovritual.ru/js/fancybox/source/fancybox_loading@2x.gif
+File Name: C:\Downloaded Web Sites\saratovritual.ru\js\fancybox\source\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://saratovritual.ru/js/fancybox/source/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\js\fancybox\source\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/js/fancybox/source/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\js\fancybox\source\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/js/fancybox/source/fancybox_sprite@2x.png
+File Name: C:\Downloaded Web Sites\saratovritual.ru\js\fancybox\source\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://saratovritual.ru/memorial/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\memorial\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/morgue/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\morgue\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/paperwork/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\paperwork\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/payment/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\payment\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/prices/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\prices\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/singumator/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\singumator\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/sitemap.php
+File Name: C:\Downloaded Web Sites\saratovritual.ru\sitemap.php.html
+Content Type: text/html
+
+Uri: https://saratovritual.ru/upload/agent-005-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\agent-005-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/balzamirovanie-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\balzamirovanie-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/cross-002-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\cross-002-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/disinfection-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\disinfection-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/eksgumatsiya-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\eksgumatsiya-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/funeral-006-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\funeral-006-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/hall-samara-001-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\hall-samara-001-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/02b/ic2p1vwz9ogsidpq9b3hle8oqnvghcha/cross-pre-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\02b\ic2p1vwz9ogsidpq9b3hle8oqnvghcha\cross-pre-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/1ad/wdhggci0kfkzslpv8o5qot12l4c8y881/hall-novokuzneck-002-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\1ad\wdhggci0kfkzslpv8o5qot12l4c8y881\hall-novokuzneck-002-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/326/a9pmjw6xizlsjnu2ohiew19z4xv543pc/wreaths-pre-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\326\a9pmjw6xizlsjnu2ohiew19z4xv543pc\wreaths-pre-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/4ef/01oeq5umx00s4u512fx9p3x9q1zwpbdm/e5464e7520bc0fbb1023d871ab270a8a.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\4ef\01oeq5umx00s4u512fx9p3x9q1zwpbdm\e5464e7520bc0fbb1023d871ab270a8a.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/6fb/xkperctcns3updr1b638gxx72le2jcmy/3299769401a4bd0bc9ff8da35d8f2a81.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\6fb\xkperctcns3updr1b638gxx72le2jcmy\3299769401a4bd0bc9ff8da35d8f2a81.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/908/ib6f1bn0x4bqi4we2ppq4grjyec0e6uj/Катафалк.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\908\ib6f1bn0x4bqi4we2ppq4grjyec0e6uj\Катафалк.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/bbc/o705tnbr26i5l6neing39tzf9ysbksaj/Кремация.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\bbc\o705tnbr26i5l6neing39tzf9ysbksaj\Кремация.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/ddd/9co9ind38ea9jhkga29uz2gp516mw1uk/b53ee4ae5584191d64e3d5a3221aa95a.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\ddd\9co9ind38ea9jhkga29uz2gp516mw1uk\b53ee4ae5584191d64e3d5a3221aa95a.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/iblock/fef/56kfxld25ranmw5lqrxxnyhph4ekl1b6/0f122841b3e046a5c84b3e819dca03b4.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\iblock\fef\56kfxld25ranmw5lqrxxnyhph4ekl1b6\0f122841b3e046a5c84b3e819dca03b4.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/katafalk-lipeck-003-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\katafalk-lipeck-003-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/memorial-arkhangelsk/memorial-arkhangelsk-001-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\memorial-arkhangelsk\memorial-arkhangelsk-001-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/memorial-arkhangelsk/memorial-arkhangelsk-001-pre-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\memorial-arkhangelsk\memorial-arkhangelsk-001-pre-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/memorial-arkhangelsk/memorial-arkhangelsk-002-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\memorial-arkhangelsk\memorial-arkhangelsk-002-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/memorial-arkhangelsk/memorial-arkhangelsk-002-pre-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\memorial-arkhangelsk\memorial-arkhangelsk-002-pre-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/memorial/pre-memorial-001-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\memorial\pre-memorial-001-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/memorial/pre-memorial-002-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\memorial\pre-memorial-002-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/memorial/pre-memorial-005-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\memorial\pre-memorial-005-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/morgue-005-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\morgue-005-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/otpevanie-002-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\otpevanie-002-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/paperwork-6-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\paperwork-6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/pominky-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\pominky-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/singumator-001-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\singumator-001-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/upload/wreaths-007-min.jpg
+File Name: C:\Downloaded Web Sites\saratovritual.ru\upload\wreaths-007-min.jpg
+Content Type: image/jpeg
+
+Uri: https://saratovritual.ru/wake/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\wake\index.htm
+Content Type: text/html
+
+Uri: https://saratovritual.ru/wreaths/
+File Name: C:\Downloaded Web Sites\saratovritual.ru\wreaths\index.htm
+Content Type: text/html
+
